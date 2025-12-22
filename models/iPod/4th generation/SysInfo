@@ -1,0 +1,20 @@
+BoardHwName: iPod Q21
+pszSerialNumber: JQ4474H6PS9
+ModelNumStr: M9282
+FirewireGuid: 0x000A270002BE0C26
+HddFirmwareRev: JD100B  
+RegionCode: LL(0x0001)
+PolicyFlags: 0x00000000
+buildID: 0x03118000 (3.1.1)
+visibleBuildID: 0x03118000 (3.1.1)
+boardHwRev: 0x00000000 (0.0 0)
+boardHwSwInterfaceRev: 0x00050013 (0.0.5 19)
+bootLoaderImageRev: 0x00000000 (0.0 0)
+diskModeImageRev: 0x00000000 (0.0 0)
+diagImageRev: 0x00000000 (0.0 0)
+osImageRev: 0x00000000 (0.0 0)
+iPodFamily: 0x00000004
+updaterFamily: 0x00000004
+
+
+

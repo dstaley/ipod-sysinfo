@@ -1,0 +1,21 @@
+BoardHwName: iPod Q14
+pszSerialNumber: JQ3414GMNRH
+ModelNumStr: M8976
+FirewireGuid: 0x0053ABDE
+HddFirmwareRev: JB100B  
+RegionCode: LL(0x0001)
+PolicyFlags: 0x00000000
+buildID: 0x02308000 (2.3)
+visibleBuildID: 0x02308000 (2.3)
+boardHwRev: 0x00000000 (0.0 0)
+boardHwSwInterfaceRev: 0x00030001 (0.0.3 1)
+bootLoaderImageRev: 0x00010000 (0.0.1 0)
+diskModeImageRev: 0x00000000 (0.0 0)
+diagImageRev: 0x00000000 (0.0 0)
+osImageRev: 0x00000000 (0.0 0)
+iPodFamily: 0x00000000
+updaterFamily: 0x00000000
+oemv: 0x00000002
+
+
+

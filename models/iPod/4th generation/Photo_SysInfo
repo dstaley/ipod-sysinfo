@@ -1,0 +1,20 @@
+BoardHwName: iPod P98
+pszSerialNumber: 2Z5380FZSAY
+ModelNumStr: M9829
+FirewireGuid: 0x000A270014322B8C
+HddFirmwareRev: BY102A  
+RegionCode: LL(0x0001)
+PolicyFlags: 0x00000000
+buildID: 0x04218000 (4.2.1)
+visibleBuildID: 0x01218000 (1.2.1)
+boardHwRev: 0x00000000 (0.0 0)
+boardHwSwInterfaceRev: 0x00060000 (0.0.6 0)
+bootLoaderImageRev: 0x00000000 (0.0 0)
+diskModeImageRev: 0x00000000 (0.0 0)
+diagImageRev: 0x00000000 (0.0 0)
+osImageRev: 0x00000000 (0.0 0)
+iPodFamily: 0x00000000
+updaterFamily: 0x00000000
+
+
+
