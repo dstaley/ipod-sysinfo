@@ -7,7 +7,6 @@ This repository contains a collection of system information files retrieved from
 >
 > - iPod (1st generation)
 > - iPod (2nd generation)
-> - iPod mini (1st generation)
 >
 > If you have access to one or more of these models, please submit a pull request!
 
@@ -145,10 +144,10 @@ The sixth-generation iPod has two models: the original released in September 200
       <td rowspan="2">iPod mini</td>
       <td>1st</td>
       <td></td>
-      <td>❓</td>
-      <td>❓</td>
-      <td>❓</td>
-      <td>❓</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td>❌</td>
+      <td>—</td>
     </tr>
     <tr>
       <td>2nd</td>

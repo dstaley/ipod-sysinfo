@@ -1,0 +1,20 @@
+BoardHwName: iPod Q22
+pszSerialNumber: YM4501XYPFW
+ModelNumStr: M9160
+FirewireGuid: 0x000A270012002DC2
+HddFirmwareRev: DN4ACA2A
+RegionCode: LL(0x0001)
+PolicyFlags: 0x00000000
+buildID: 0x02618000 (2.6.1)
+visibleBuildID: 0x01418000 (1.4.1)
+boardHwRev: 0x00000000 (0.0 0)
+boardHwSwInterfaceRev: 0x00040013 (0.0.4 19)
+bootLoaderImageRev: 0x00000000 (0.0 0)
+diskModeImageRev: 0x00000000 (0.0 0)
+diagImageRev: 0x00000000 (0.0 0)
+osImageRev: 0x00000000 (0.0 0)
+iPodFamily: 0x00000003
+updaterFamily: 0x00000006
+
+
+
